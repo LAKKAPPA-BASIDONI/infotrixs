@@ -7,7 +7,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;
-
+//infotrix
 public class Currency {
     private static final String API_BASE_URL = "https://api.apilayer.com/exchangerates_data/";
     private static final String API_KEY = "2bddacbe3239d233d8a1c6441781add1"; // Replace with your actual API key
